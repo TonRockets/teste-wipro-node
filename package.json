@@ -1,0 +1,24 @@
+{
+  "name": "locadora-wipro",
+  "version": "1.0.0",
+  "description": "teste para processo seletivo wipro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TonRockets/teste-wipro-node.git"
+  },
+  "author": "Wellington Santos",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.0",
+    "mysql": "^2.18.1"
+  }
+}
